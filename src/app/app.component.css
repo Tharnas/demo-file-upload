@@ -1,0 +1,12 @@
+.my-drop-zone {
+    border: dotted 3px lightgray;
+
+    min-width: 100px;
+    min-height: 50px;
+}
+
+.nv-file-over { border: dotted 3px red; }
+
+.preview {
+    background-color: gray;
+}
